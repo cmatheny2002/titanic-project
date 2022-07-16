@@ -1,1 +1,2 @@
 # titanic-project
+This project utlizes titanic data, Microsoft Machine Learning Studio and predictive modeling to determine, given a person's sex, age, number of siblings and spouses, number of parents and children, and the price they are willing to pay for a ticket, if they will survive on the titanic. I used a web deployed API, and called it in order to access the predictive model and be able to input values. 
